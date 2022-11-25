@@ -2,7 +2,7 @@
 
 partial class Program
 {
-    public class Oracle : DbConnetion
+    public class Oracle : DbConnection
     {
 
         public override bool isRunning { get; set; }

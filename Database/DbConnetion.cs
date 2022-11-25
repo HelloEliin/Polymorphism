@@ -2,12 +2,12 @@
 
 partial class Program
 {
-    public abstract class DbConnetion
+    public abstract class DbConnection
     {
         public string ConnectionString { get; set; }
         public abstract bool isRunning { get; set; }
 
-        public DbConnetion(string ConnectionString)
+        public DbConnection(string ConnectionString)
        {
             this.ConnectionString = ConnectionString;
            

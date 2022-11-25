@@ -11,16 +11,14 @@ partial class Program
         var sql = new Sql("KISSE");
         var oracle = new Oracle("KATT");
 
-        //sql.Open();
-        //sql.Close();
-        //oracle.Open();
-        //oracle.Close();
-    
+        var commandOne = new DbCommand(new Sql("KISSE"), "Katten");
+        var commandTwo = new DbCommand(new Oracle("SMULAN"), "Kissen");
 
-        
- 
-        
-     
+        commandOne.Execute();
+        commandTwo.Execute();
+
+
+
     }
 }
 

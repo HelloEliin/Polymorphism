@@ -2,7 +2,7 @@
 
 partial class Program
 {
-    public class Sql : DbConnetion
+    public class Sql : DbConnection
     {
         public override bool isRunning { get; set; }
 

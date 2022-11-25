@@ -5,15 +5,20 @@ partial class Program
     public class DbCommand
     {
 
-        public DbConnetion DbConnection {get; set; }
+        public DbConnection DbConnection {get; set; }
         public string Intstruction { get; set; }
 
-        public DbCommand(DbConnetion dbConnection, string instruction)
+        public DbCommand(DbConnection dbConnection, string instruction)
         {
 
             if(dbConnection == null)
             {
                 throw new ArgumentNullException("dbConnection cannot be null.");
+            }
+
+            if (String.IsNullOrWhiteSpace(instruction))
+            {
+                throw new ArgumentNullException("Instruciton cannot be null.");
             }
 
 

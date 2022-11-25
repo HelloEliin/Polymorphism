@@ -1,18 +1,14 @@
 ﻿<Properties StartupConfiguration="{1A581805-8A02-4A3D-A2C6-E4D105A35BFA}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Database PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Database/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Database PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Database/DbCommand.cs">
     <Files>
-      <File FileName="Database/Program.cs" Line="22" Column="9" />
-      <File FileName="Database/DbConnetion.cs" />
-      <File FileName="Database/Oracle.cs" />
-      <File FileName="Database/Sql.cs" />
-      <File FileName="Database/DbCommand.cs" />
+      <File FileName="Database/DbCommand.cs" Line="13" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
