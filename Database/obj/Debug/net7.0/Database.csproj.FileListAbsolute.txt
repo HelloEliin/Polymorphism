@@ -1,0 +1,15 @@
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.csproj.AssemblyReference.cache
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.AssemblyInfoInputs.cache
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.AssemblyInfo.cs
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.csproj.CoreCompileInputs.cache
+/Users/elinholmstrom/Projects/Database/Database/bin/Debug/net7.0/Database
+/Users/elinholmstrom/Projects/Database/Database/bin/Debug/net7.0/Database.deps.json
+/Users/elinholmstrom/Projects/Database/Database/bin/Debug/net7.0/Database.runtimeconfig.json
+/Users/elinholmstrom/Projects/Database/Database/bin/Debug/net7.0/Database.dll
+/Users/elinholmstrom/Projects/Database/Database/bin/Debug/net7.0/Database.pdb
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.dll
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/refint/Database.dll
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.pdb
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/Database.genruntimeconfig.cache
+/Users/elinholmstrom/Projects/Database/Database/obj/Debug/net7.0/ref/Database.dll
