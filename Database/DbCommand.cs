@@ -33,7 +33,7 @@ partial class Program
         public void Execute()
         {
             DbConnection.Open();
-            Console.WriteLine("Added to database: " + Intstruction);
+            Console.WriteLine("Added to database: " + Instruction);
             DbConnection.Close();
         }
 
