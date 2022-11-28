@@ -23,7 +23,7 @@ partial class Program
 
 
             this.DbConnection = dbConnection;
-            this.Intstruction = instruction;
+            this.Instruction = instruction;
 
             
 
