@@ -18,7 +18,7 @@ partial class Program
 
             if (String.IsNullOrWhiteSpace(instruction))
             {
-                throw new ArgumentNullException("Instruciton cannot be null.");
+                throw new ArgumentNullException("Instruction cannot be null.");
             }
 
 
