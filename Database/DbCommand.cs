@@ -6,7 +6,7 @@ partial class Program
     {
 
         public DbConnection DbConnection {get; set; }
-        public string Intstruction { get; set; }
+        public string Instruction { get; set; }
 
         public DbCommand(DbConnection dbConnection, string instruction)
         {
